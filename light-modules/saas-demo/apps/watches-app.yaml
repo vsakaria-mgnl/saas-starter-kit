@@ -5,4 +5,4 @@ label: Timepieces
 #Optionally override any of the app configuration supplied by the content type.
 subApps:
   detail:
-    label: Watch Detail
+    label: Watch Detail.
